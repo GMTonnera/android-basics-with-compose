@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67f05aa4-aced-4215-8488-05bcad9f1bca" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Unit2/pathway3/ArtSpace/app/src/main/java/com/example/artspace/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit2/pathway3/ArtSpace/app/src/main/java/com/example/artspace/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/java/com/example/affirmations/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/java/com/example/affirmations/data/Datasource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/java/com/example/affirmations/model/Affirmation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/java/com/example/affirmations/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/java/com/example/affirmations/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/drawable/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/drawable/image10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/drawable/image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/drawable/image3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/drawable/image4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/drawable/image5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/drawable/image6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/drawable/image7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/drawable/image8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/drawable/image9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affirmations/settings.gradle.kts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2i44ne0CVsOoH6fsQ2gy4EV7hEZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Gustavo/Documents/repositories/android-basics-with-compose/Unit3/pathway2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67f05aa4-aced-4215-8488-05bcad9f1bca" name="Changes" comment="" />
+      <created>1718736687509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718736687509</updated>
+    </task>
+    <servers />
+  </component>
+</project>
