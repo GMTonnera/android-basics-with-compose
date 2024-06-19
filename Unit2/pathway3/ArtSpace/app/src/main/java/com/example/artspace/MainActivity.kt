@@ -129,12 +129,8 @@ fun ArtCard(
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally,
         modifier = Modifier
-            .background(
-                color = cardColor,
-                shape = RoundedCornerShape(5)
-            )
-            .fillMaxWidth(0.7f)
-            .fillMaxHeight(0.5f)
+            .background(color = cardColor)
+            .size(280.dp, 420.dp)
             .border(3.dp, color = Color(255, 215, 0))
     ) {
         Text(
